@@ -68,7 +68,7 @@ section {
 }
 
 .hero {
-  background: url(/UTS-adi/img/background.png);
+  background-image: url(img/background.png);
   background-position: top right;
   background-size: cover;
   display: flex;
